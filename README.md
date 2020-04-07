@@ -9,4 +9,4 @@ By using `Resolve-DnsName` its also able to find the ip address of any website.
 4. Find
 
 
-Image: ![Alt](images/IPv4FindrGIF.gif "IPv4 gif example")
+Image: ![Alt](images/IPv4Findr.gif "IPv4 gif example")
