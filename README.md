@@ -8,4 +8,4 @@ By using **Resolve-DnsName** its also able to find the ip address of any website
 -Click on "Search" or hit "Enter" on your keyboard.
 -IP address displays itself at the bottom of the program.
 
-[image]:https://ibb.co/chSG4C0
+[IPv4 gif example]:images/IPv4FindrGIF.gif
