@@ -8,7 +8,7 @@ By using `Resolve-DnsName` its also able to find the ip address of any website.
 3. Search
 4. Find
 
+ <img src="images/IPv4Findr.gif" alt="IPv4 gif example" style="width:100px;">
 
-Image: ![Alt](images/IPv4Findr.gif "IPv4 gif example")
-
- <img src="images/IPv4Findr.gif" alt="IPv4 gif example" style="width:300px;"> 
+And there you have it. an easy ip finder written in powershell.
+Big shout out to [POSHGUI](https://poshgui.com/), a website where you can create your script GUI without the hustle and bustle of typing it yourself.
